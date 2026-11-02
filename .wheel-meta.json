@@ -1,0 +1,22 @@
+{
+  "wheel_id": 654,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-107",
+  "project": "home-loan-brokers-newcastle-beginner-guide-b560a86fbd4bb1a8c",
+  "parent_t1_ref": "newcastlehomeloanbroker-153",
+  "node_role": "feeder",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "home loan brokers newcastle beginner guide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-newcastle-beginner-guide-b560a86fbd4bb1a8c/",
+  "tier": "T2",
+  "writeback_nonce": "822548cdeb5ea3e8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-loan-brokers-newcastle-81ad5f9bc87d4e2041b96578abdf7a39702/",
+      "anchor": "https://sites-e470-2.web.app/home-loan-brokers-newcastle-81ad5f9bc87d4e2041b96578abdf7a39702/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
